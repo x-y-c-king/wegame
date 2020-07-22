@@ -1,6 +1,6 @@
-# steam
+# wegame
 
-> steam game
+> wegame game
 
 ## Build Setup
 
