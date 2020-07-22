@@ -1,6 +1,6 @@
 # wegame
 
-> wegame game
+> 模仿wegame官网的一个基于vue的项目
 
 ## Build Setup
 
